@@ -1,0 +1,5 @@
+d:\Work\Visual Studio 2008\Projects\mcastsender\mcastsender\bin\Debug\mcastsender.exe
+d:\Work\Visual Studio 2008\Projects\mcastsender\mcastsender\bin\Debug\mcastsender.pdb
+d:\Work\Visual Studio 2008\Projects\mcastsender\mcastsender\obj\Debug\ResolveAssemblyReference.cache
+d:\Work\Visual Studio 2008\Projects\mcastsender\mcastsender\obj\Debug\mcastsender.exe
+d:\Work\Visual Studio 2008\Projects\mcastsender\mcastsender\obj\Debug\mcastsender.pdb
